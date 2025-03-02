@@ -11,7 +11,7 @@ body {
 
 .header {
     height: 100vh;
-    background-image: url(images/13.png);
+    background-image: url(13.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -125,26 +125,26 @@ body {
 
 .image__like {
     width: 39px;
-    background-image: url(./images/Like.svg);
+    background-image: url(Like.svg);
 }
 
 .image__like:hover {
-    background-image: url(./images/Like_active.svg);
+    background-image: url(Like_active.svg);
 }
 
 .image__choosen {
     width: 30px;
-    background-image: url(./images/Choosen.svg);
+    background-image: url(Choosen.svg);
 }
 
 .image__choosen:hover {
-    background-image: url(./images/Choosen_active.svg);
+    background-image: url(Choosen_active.svg);
 }
 
 
 .footer {
     height: 100vh;
-    background-image: url(./images/7.png);
+    background-image: url(7.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
